@@ -1,0 +1,28 @@
+name: Si Gross Nature Space
+favicon: null
+layout_spectrum: 0.9683893909677863
+typography_spectrum: 0.5020397752523422
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8535838583484292
+  lightness: 0.5462824346031994
+  saturation: 0.410745166009292
+  rhythmicContrast: 0.5327762891538441
+purpose: []
